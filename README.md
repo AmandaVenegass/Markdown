@@ -1,6 +1,8 @@
 Clase 20-03-2026  Markdown
 
-## Titulos
+- GitHub es una plataforma basada en la nube donde puedes almacenar, compartir y trabajar junto con otros usuarios para escribir código
+
+Titulos
 
 # Titulo Grande h1
 ## Subtitulo h2
@@ -24,13 +26,16 @@ Con puntitos
 - Agua
 - Pan
 - Harina
+   * azucar
+   * canela
 
 Numeradas 
 
   1. Primero
   2. Segundo
   3. Tercero
-  4. 
+     1. Firts
+
 ---
 ## Linea separadora 
 
@@ -43,4 +48,13 @@ Numeradas
 ## Imagenes
 
 ![gatos](link de la imagen)
+
+
+
+
+## Bloques 
+
+> habia una vez ........
+> 
+>> pero paso......
 
